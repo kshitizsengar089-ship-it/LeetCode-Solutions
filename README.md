@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0912-sort-an-array](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
