@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
@@ -99,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
