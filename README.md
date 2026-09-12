@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
