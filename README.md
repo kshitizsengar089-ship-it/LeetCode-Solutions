@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0392-is-subsequence) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2540-minimum-common-value](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
@@ -191,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
