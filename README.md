@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 ## String
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0202-happy-number) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
