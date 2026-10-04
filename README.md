@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2540-minimum-common-value](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 ## Greedy
