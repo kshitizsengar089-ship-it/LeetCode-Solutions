@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Math
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
@@ -221,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2540-minimum-common-value](https://github.com/kshitizsengar089-ship-it/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 ## Boyer–Moore Majority Vote Algorithm
